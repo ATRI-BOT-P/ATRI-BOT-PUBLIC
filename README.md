@@ -29,3 +29,14 @@
 ## 许可证
 
 此项目根据 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) 许可证授权。您可以在 [LICENSE](LICENSE) 文件中查看详细信息。
+
+## 特别感谢
+- [Sn0wo2/ZeroBot](https://github.com/Sn0wo2/ZeroBot): 机器人框架Fork form ZeroBot
+
+- [wdvxdr1123/ZeroBot](https://github.com/wdvxdr1123/ZeroBot): 原版ZeroBot
+
+同时感谢以下开发者对 ATRI-BOT 作出的贡献：
+
+<a href="https://github.com/Sn0wo2/ZeroBot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sn0wo2/ZeroBot&max=1000" />
+</a>
