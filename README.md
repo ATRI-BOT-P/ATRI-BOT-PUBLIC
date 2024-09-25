@@ -9,12 +9,6 @@
 
 ---
 
-## 机器人状态页面
-**ATRI-BOT Status Page**  
-  - [ATRI-BOT Status](https://atri.statuspage.io/)
-
----
-
 ## 许可证
 
 此项目根据 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) 许可证授权。您可以在 [LICENSE](LICENSE) 文件中查看详细信息。
